@@ -1,0 +1,7 @@
+<canvas class = "canvas" id="chart1"
+canvas-id="humidity"></canvas>
+<canvas class = "canvas" id="chart2"
+canvas-id="light"></canvas>
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe"></canvas>
+<audio poster="{{poster}}" name="{{name}}" author="{{author}}" src="../../../xzq/20191219_221853.mp3" id="myAudio" controls loop></audio>
